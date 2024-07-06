@@ -1,0 +1,5 @@
+chat-api/.env
+chat-api/node_modules
+chat-api/vector_db
+chat-ui/node_modules
+chat-ui/.gitignore
